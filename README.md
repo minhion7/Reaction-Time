@@ -47,11 +47,12 @@ This simulates a classic experimental-psychology task where reaction time depend
 
 ---
 
-## Results (example)
+## Results
 
 On a typical run:
 
 - With a lower RMSE than **Linear Regression**, the **Random Forest** model was better able to capture non-linear relationships between task variables and reaction time.
+- The Random Forest model performed better than Linear Regression, achieving a lower RMSE when predicting reaction time. Visualizations of the reaction time distribution and the model's predictions are included in the screenshots folder.
 
 Plots include:
 
@@ -78,3 +79,7 @@ Plots include:
 
 **Minh Vu**  
 UC San Diego – Cognitive Science (Machine Learning focus)
+
+Check out my other ML project:  
+👉 **Audio Emotion Classifier (Teachable Machine + ML)**  
+https://github.com/minhion7/Emotion-Recognizer
