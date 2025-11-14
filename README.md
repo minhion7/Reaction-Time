@@ -47,7 +47,7 @@ This simulates a classic experimental-psychology task where reaction time depend
 
 ---
 
-## 📊 Results (example)
+## Results (example)
 
 On a typical run:
 
@@ -62,7 +62,7 @@ Plots include:
 
 ---
 
-## 💡 Takeaways
+## Takeaways
 
 - Reaction time can be reasonably predicted from a small set of experimental/task features.
 - Non-linear models like Random Forests often perform better than simple linear models on behavioral data.
@@ -74,7 +74,7 @@ Plots include:
 
 ---
 
-## 👤 Author
+## Author
 
 **Minh Vu**  
 UC San Diego – Cognitive Science (Machine Learning focus)
